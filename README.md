@@ -1,3 +1,3 @@
 # AlienShooter
 
-A single-player or two-player game of spacaships shooting aliens and bosses and meteors.
+A single-player or two-player game of spacaships shooting aliens and bosses and meteors designed in C++.
